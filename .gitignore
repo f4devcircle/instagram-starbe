@@ -1,0 +1,6 @@
+.env
+user.json
+knexfile.js
+node_modules
+media.jpg
+media.mp4
